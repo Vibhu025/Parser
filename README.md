@@ -37,4 +37,4 @@ A professional, high-performance, single-file HTML application designed to audit
 
 ## 📝 License
 
-Distributed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
